@@ -1,0 +1,5 @@
+Num 1 = 40
+Num 2 = 5
+Add= Num1 + Num2
+Printf("Addition is "&n);
+Addition is 45
